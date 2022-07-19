@@ -1,4 +1,4 @@
-# PuzzleMinefield-Releases
+# PuzzleMinefield
 You can find the publicly available releases for Puzzle Minefield here.
 
 Puzzle Minefield is a classic puzzle solving game, with enhancements such as cross-platform gameplay, and online progress tracking, but chiefly: Competitive Multiplayer
