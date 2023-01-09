@@ -2,6 +2,8 @@
 You can find the publicly available releases for Puzzle Minefield here.
 Looking for more info? Visit https://www.pyroneon.ml/PuzzleMinefield
 
+By downloading and playing Puzzle Minefield, you agree to our terms of service. https://www.pyroneon.ml/PuzzleMinefield/tos
+
 Puzzle Minefield is a classic puzzle solving game, with enhancements such as cross-platform gameplay, and online progress tracking, but chiefly: Competitive Multiplayer
 gameplay. Play head to head with others in random matches for ranks and to climb the leaderboard, or host your own server and invite friends / strangers to play with you, through LAN or online gameplay.
 
