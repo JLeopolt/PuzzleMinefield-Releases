@@ -13,4 +13,5 @@ to solve.
 Enjoy the custom graphics and sound design, with interchangeable resource packs available, pick your favorite skin and enjoy a whole new experience playing with it.
 
 <b>Please Notice:</b>
-<br>Releases labelled "Deprecated" are too outdated to play on Official or Community hosted online servers. Deprecated versions can still play solo games, and can still play on LAN servers of the same version. It is highly recommended that you update your version to the latest release, for stability, security, and maximum compatibility.
+<br>
+Any release predating the latest release is deprecated. Deprecated releases are too outdated to play on Official or Community hosted online servers. Deprecated versions can still play solo games, and can still play on LAN servers of the same version. It is highly recommended that you update your version to the latest release, for stability, security, and maximum compatibility.
