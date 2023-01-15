@@ -14,4 +14,4 @@ Enjoy the custom graphics and sound design, with interchangeable resource packs 
 
 <b>Please Notice:</b>
 <br>
-Any release predating the latest release is deprecated. Deprecated releases are too outdated to play on Official or Community hosted online servers. Deprecated versions can still play solo games, and can still play on LAN or community servers of the same version. It is highly recommended that you update your version to the latest release, for stability, security, and maximum compatibility.
+Any release pre-dating the latest release is deprecated. Deprecated releases are too outdated to play on Official or Community hosted online servers. Deprecated versions can still play solo games, and can still play on LAN or community servers of the same version. It is highly recommended that you update your version to the latest release, for stability, security, and maximum compatibility.
