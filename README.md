@@ -12,6 +12,12 @@ to solve.
 
 Enjoy the custom graphics and sound design, with interchangeable resource packs available, pick your favorite skin and enjoy a whole new experience playing with it.
 
+<b>Device Specifications:</b>
+<br>
+Currently, Puzzle Minefield is most graphically stable on Windows 10 PCs, with 1920x1080p monitors. For other aspect ratios or resolutions, you may experience visual bugs. For operating systems other than Windows 10, you might experience issues with running the game. (Although in theory it should natively support any desktop computer)
+<br>
+A graphical support update is scheduled, check our <a href="https://www.reddit.com/r/PuzzleMinefield/">reddit page</a> for updates.
+
 <b>Please Notice:</b>
 <br>
 Any release pre-dating the latest release is deprecated. Deprecated releases are too outdated to play on Official or Community hosted online servers. Deprecated versions can still play solo games, and can still play on LAN or community servers of the same version. It is highly recommended that you update your version to the latest release, for stability, security, and maximum compatibility.
