@@ -1,8 +1,8 @@
 # PuzzleMinefield
 You can find the publicly available releases for Puzzle Minefield here.
-<br>For more information, visit <a href="https://www.pyroneon.ml/PuzzleMinefield">our website</a>.
+<br>For more information, visit <a href="https://www.pyroneon.net/PuzzleMinefield">our website</a>.
 
-By downloading and playing Puzzle Minefield, you agree to our <a href="https://www.pyroneon.ml/PuzzleMinefield/tos">terms of service</a>.
+By downloading and playing Puzzle Minefield, you agree to our <a href="https://www.pyroneon.net/PuzzleMinefield/tos">terms of service</a>.
 
 Puzzle Minefield is a classic puzzle solving game, with enhancements such as cross-platform gameplay, and online progress tracking, but chiefly: Competitive Multiplayer
 gameplay. Play head to head with others in random matches for ranks and to climb the leaderboard, or host your own server and invite friends / strangers to play with you, through LAN or online gameplay.
@@ -21,3 +21,5 @@ A graphical support update is scheduled, check our <a href="https://www.reddit.c
 <b>Please Notice:</b>
 <br>
 Any release pre-dating the latest release is deprecated. Deprecated releases are too outdated to play on Official or Community hosted online servers. Deprecated versions can still play solo games, and can still play on LAN or community servers of the same version. It is highly recommended that you update your version to the latest release, for stability, security, and maximum compatibility.
+<br>
+Additionally, all versions prior to Beta 1.0.0 will not support any networking capabilities, since they use our outdated pyroneon.ml domain. For archive reasons, we will not pull the old versions from the revision history, however, they will not have full function as intended.
